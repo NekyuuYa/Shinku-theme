@@ -1,7 +1,7 @@
 {
-  "name": "shinku-hikari",
-  "displayName": "Shinku Hikari",
-  "description": "A warm color theme with golden accents and soft yellow backgrounds",
+  "name": "shinku-theme",
+  "displayName": "Shinku Theme",
+  "description": "A collection of 5 light and dark themes for Visual Studio Code, inspired by the colors of the sky and the sun.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.70.0"
