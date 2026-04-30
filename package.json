@@ -1,0 +1,41 @@
+{
+  "name": "shinku-hikari",
+  "displayName": "Shinku Hikari",
+  "description": "A warm color theme with golden accents and soft yellow backgrounds",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Shinku Hikari",
+        "uiTheme": "vs",
+        "path": "./themes/shinku-hikari.json"
+      },
+      {
+        "label": "Shinku Asahi",
+        "uiTheme": "vs",
+        "path": "./themes/shinku-asahi.json"
+      },
+      {
+        "label": "Shinku Sora",
+        "uiTheme": "vs",
+        "path": "./themes/shinku-sora.json"
+      },
+      {
+        "label": "Shinku Yami",
+        "uiTheme": "vs-dark",
+        "path": "./themes/shinku-yami.json"
+      },
+      {
+        "label": "Shinku Kurai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/shinku-kurai.json"
+      }
+    ]
+  }
+}
